@@ -7,9 +7,8 @@ This project involves the creation of a comprehensive sales dashboard for Electr
 ## Features
 1. **Top/Bottom 5 Products**:
    - Display top and bottom 5 products by sales, profit, and quantity sold.
-   - [click here]([https://your-link.com](https://github.com/rahul-nagaura/ElectroHub-Sales-Dashboard/blob/main/Images/Image%201.png))
+   - [Click here to view the image](https://github.com/rahul-nagaura/ElectroHub-Sales-Dashboard/blob/main/Images/Image%201.png)
 
-   
 2. **Sales Trends**:
    - Analyze how sales trends vary over time (daily, monthly, quarterly, annually).
 
