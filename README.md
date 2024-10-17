@@ -11,9 +11,11 @@ This project involves the creation of a comprehensive sales dashboard for Electr
 
 2. **Sales Trends**:
    - Analyze how sales trends vary over time (daily, monthly, quarterly, annually).
+   - [Click here](https://raw.githubusercontent.com/rahul-nagaura/ElectroHub-Sales-Dashboard/refs/heads/main/Images/Image%202.png)
 
 3. **Sales & Profit Relationship**:
    - Visualize the relationship between sales and profit.
+   - [Click Here](https://raw.githubusercontent.com/rahul-nagaura/ElectroHub-Sales-Dashboard/refs/heads/main/Images/Image%203.png)
 
 4. **Period Comparison**:
    - Compare sales, profit, and quantity sold between two user-selected periods.
